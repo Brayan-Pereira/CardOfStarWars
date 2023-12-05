@@ -9,4 +9,6 @@ Currently, two official plugins are available:
 
 ## Um card simples de Star Wars feito com React.js
 
-Primeiro projeto React.js afins de estudo, onde apliquei alguns conceitos importantes como a fragmentação de conponentes
+Primeiro projeto React.js afins de estudo, onde apliquei alguns conceitos importantes como a fragmentação de conponentes.
+
+Na primeira versão era para ser apenas um poster de Star Wars, mas dando seguimento e aplincando o conceito de props, podemos fazer variações de um mesmo elemento ou componente.
